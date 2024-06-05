@@ -1,4 +1,3 @@
-
-SchoolHRAdmin/obj/
-SchoolHRAdmin/bin/
-SchoolHRAdmin/.vs/
+obj/
+bin/
+.vs/
