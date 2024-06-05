@@ -1,7 +1,0 @@
-E:\Thuan\Project\SchoolHRAdmin\SchoolHRAdmin\bin\Debug\SchoolHRAdmin.exe.config
-E:\Thuan\Project\SchoolHRAdmin\SchoolHRAdmin\bin\Debug\SchoolHRAdmin.exe
-E:\Thuan\Project\SchoolHRAdmin\SchoolHRAdmin\bin\Debug\SchoolHRAdmin.pdb
-E:\Thuan\Project\SchoolHRAdmin\SchoolHRAdmin\obj\Debug\SchoolHRAdmin.csproj.AssemblyReference.cache
-E:\Thuan\Project\SchoolHRAdmin\SchoolHRAdmin\obj\Debug\SchoolHRAdmin.csproj.CoreCompileInputs.cache
-E:\Thuan\Project\SchoolHRAdmin\SchoolHRAdmin\obj\Debug\SchoolHRAdmin.exe
-E:\Thuan\Project\SchoolHRAdmin\SchoolHRAdmin\obj\Debug\SchoolHRAdmin.pdb
